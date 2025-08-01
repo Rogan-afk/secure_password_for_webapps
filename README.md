@@ -1,3 +1,3 @@
-# a-simple-password-generator
- this password generator uses a few loops and lists along with functions from the random module.
- the password consists of "n" number of random letters, symbols and numbers .
+
+
+ the password consists of "n" number of random letters, symbols and numbers . Permutation and combinations are fairly large, making it decently secure.
